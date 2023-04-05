@@ -9,6 +9,5 @@ int main()
     float dvd= a*1.0/b;
     printf("%d %d %d %0.2f",sum,minus,into,dvd);
   
-   
     return 0;
 }
